@@ -20,4 +20,4 @@ Basit, hızlı ve etkili bir odaklanma aracı. Java Swing kütüphanesi kullanı
 ### Çalıştırma Adımları
 1. Bu depoyu klonlayın:
    ```bash
-   git clone [https://github.com/kullaniciadi/pomodoro-timer.git](https://github.com/picomve/PomodoroTimer.git)
+   git clone https://github.com/picomve/PomodoroTimer.git
